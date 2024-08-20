@@ -5,7 +5,7 @@ const fs = require('fs');
 // Choose the service to use google/yandex,
 // if you provide both yandex will be used as the default
 TJO.init({
-  googleApiKey: ''
+  googleApiKey: 'AIzaSyDTWLrrinJXZNaBb1eXM2ypZp7XAjwkPxw'
 });
 
 var args = process.argv.slice(2);
